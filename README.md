@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**mooktar/mooktar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Mohamadou Mouktar (@mooktar)
 
 Salut 👋 je suis Mohamadou Mouktar alias **mooktar**.
@@ -27,7 +10,7 @@ Actuellement, je travail en tant que *développeur indépendant* pour **Hoytima 
 
 Je fais mes débuts avec les langages web HTML et CSS pour ensuite se former en *Programmation web avec Python et JavaScript* d'où j'ai appris le front et le back. Je continue à me former sur les technos qui me passionnent notament **React JS**.
 
-![](.\technologies.png)
+![](technologies.png)
 
 
 
