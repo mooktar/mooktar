@@ -8,8 +8,6 @@ Salut 👋, je suis Mohamadou Mouktar, développeur web indépendant chez Hoytim
 
 Je fais mes débuts avec les langages web HTML et CSS pour ensuite se former en *Programmation web avec Python et JavaScript*. Je continue à m'ameliorer sur **React JS** et son environnement.
 
-![](technologies.png)
-
 
 
 ## Pour plus d'informations et feedback
