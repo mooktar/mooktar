@@ -1,18 +1,11 @@
-# Mohamadou Mouktar [@mooktar]
+###  Hi there 👋 My name is
+# Mohamadou Mouktar
 
-Salut 👋, je suis Mohamadou Mouktar, développeur web indépendant chez Hoytima Technology, une agence de communication digitale que j'ai fondée. J'ai travaillé sur les projets de développment de site web pour des clients locaux pour booster leurs activités sur le web. Je reste ✔ simple, ✔ curieux et ✔ dynamique pour aider les autres à ameliorer leurs produits et services.
+I love building web apps
 
+- 💻 I'm currently working with Python/Django, JavaScript/React.js and WordPress
+- 🌱 I'm interested in Fullstack Engineering
+- 👯 I'm looking to collaborate on open source projects
+- 📬 How to reach me [@mooktar_dev](https://www.twitter.com/mohmouktar) & [mohmouktar@gmail.com](mailto:mohmouktar@gmail.com)
 
-
-## Technologies
-
-Je fais mes débuts avec les langages web HTML et CSS pour ensuite se former en *Programmation web avec Python et JavaScript*. Je continue à m'ameliorer sur **React JS** et son environnement.
-
-
-
-## Pour plus d'informations et feedback
-
-- Twitter: [twitter.com/mohmouktar](https://www.twitter.com/mohmouktar)
-- Email: [mohmouktar@gmail.com](mailto:mohmouktar@gmail.com)
-- Site web: [mooktar.github.io](https://mooktar.github.io)
-- Hoytima: [https://www.hoytima.com](https://www.hoytima.com)
+[![Mooktar](https://github-readme-stats.vercel.app/api?username=mooktar)](https://github.com/mooktar/github-readme-stats)
